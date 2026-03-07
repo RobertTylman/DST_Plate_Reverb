@@ -28,14 +28,14 @@ The notebook wires these blocks into:
 
 ## Files
 
-- `hw4.ipynb`: Main implementation and demo
+- `PlateReverb.ipynb`: Main implementation and demo
 - `snare.wav`: Input test signal
 - `Reverb Topology.png`: Block diagram reference
 - `dattorro.pdf`, `dst_hw4.pdf`: Assignment/reference material
 
 ## Quick Start
 
-1. Open `hw4.ipynb`.
+1. Open `PlateReverb.ipynb`.
 2. Run all cells from top to bottom.
 3. The final cell:
    - loads `snare.wav`
@@ -54,4 +54,3 @@ The notebook wires these blocks into:
 
 - Reverb processing is sample-by-sample to match delay-network behavior.
 - A short silent tail is appended so decay is audible/visible.
-- Output level is normalized to avoid clipping.
