@@ -31,7 +31,7 @@ The notebook wires these blocks into:
 - `PlateReverb.ipynb`: Main implementation and demo
 - `snare.wav`: Input test signal
 - `Reverb Topology.png`: Block diagram reference
-- `dattorro.pdf`, `dst_hw4.pdf`: Assignment/reference material
+- `dattorro.pdf`: Reference material
 
 ## Quick Start
 
