@@ -2,7 +2,7 @@
 
 This project implements a **mono-in, stereo-out plate-style reverb**, inspired by *Jon Dattorro's topology*, in an interactive Jupyter notebook.
 
-## 🚀 Try It Out
+## Try It Out
 
 - 🌐 **Open Notebook:**  
   https://molab.marimo.io/notebooks/nb_vpk8dPUAzAChYFsdFmNAG3/app
