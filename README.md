@@ -1,7 +1,14 @@
-# DST Plate Reverb
+# 🎛️ DST Plate Reverb
 
-This project implements a mono-in, stereo-out plate-style reverb (inspired by Jon Dattorro's topology) in a Jupyter notebook.
-[![Open in molab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_vpk8dPUAzAChYFsdFmNAG3)
+This project implements a **mono-in, stereo-out plate-style reverb**, inspired by *Jon Dattorro's topology*, in an interactive Jupyter notebook.
+
+## 🚀 Try It Out
+
+- 🌐 **Open Notebook:**  
+  https://molab.marimo.io/notebooks/nb_vpk8dPUAzAChYFsdFmNAG3/app
+
+- 🧪 **Launch in MoLab:**  
+  [![Open in MoLab](https://molab.marimo.io/molab-shield.svg)](https://molab.marimo.io/notebooks/nb_vpk8dPUAzAChYFsdFmNAG3)
 
 ## Topology
 
